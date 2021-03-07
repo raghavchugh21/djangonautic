@@ -1,1 +1,1 @@
-# djangonautic - Personal Blog made with Django!
+# djangonautic - Personal Blog made with Django
